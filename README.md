@@ -1,4 +1,4 @@
-#Navigation Terminal
+# Navigation Terminal
 **cd** -> Change directory
 - cd ~ -> change directory to Home
 **ls** -> display what is in current directory with short list
@@ -6,7 +6,7 @@
 **pwd** -> print working directory
 **open** -> command will open a file in default program or directory in finder
 
-#File Manipulation
+# File Manipulation
 **man** -> will pull up manual for commands
 - `man [command here]` -- will display tons of information about the command - q to exit
 **|** -> pipe will execute command on left first then execute command on right
@@ -31,7 +31,7 @@
 -`cat [file name]` -- will display file contents
 -`cat [file name] [file name] ....` -- will display file contents of all files selected in order
 
-#Git commands
+# Git commands
 **git init** -> this will add a local repository to a directory
 **git status** -> this will show files that are untracked or tracked for commit
 **git add** -> will add files to staging for next commit
